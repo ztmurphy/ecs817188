@@ -1,0 +1,16 @@
+.one {
+background-color: blue;
+color: green;
+}
+.two {
+color: red;
+}
+.three {
+color: orange;    
+}
+.four {
+color: blue;
+}
+.five {
+background-color: linear-gradient(green, blue, purple, pink, red, orange);
+}
